@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"edis"
+	],
+	"copyright": "Copyright © 2019, edis",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "dintervals"
+}

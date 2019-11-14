@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dintervals
+dintervals.so
+dintervals.dylib
+dintervals.dll
+dintervals.a
+dintervals.lib
+dintervals-test-*
+*.exe
+*.o
+*.obj
+*.lst
